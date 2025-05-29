@@ -13,9 +13,3 @@
   end : "E"
   passage: "x"
   wall: "."
-plus_maze:
-  begin: "B"
-  end:   "E"
-  wall:  "+"
-  passage: " "
-
