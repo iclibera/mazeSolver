@@ -53,6 +53,6 @@ This repository provides a simple A* search–based maze solver in Python.
 - `81x81.txt` — 81×81 maze using `.` walls and `x` passages
 
 ## Example Solution (41x41.txt)
-
+<img width="364" alt="Screenshot 2025-05-29 at 23 58 54" src="https://github.com/user-attachments/assets/370ad560-c00d-466c-91fe-3292e2be55bb" />
 
 Feel free to add your own maze files and update the YAML accordingly!
