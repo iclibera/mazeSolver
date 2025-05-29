@@ -1,4 +1,3 @@
-# README.md
 # A* Maze Solver
 
 This repository provides a simple A* search–based maze solver in Python.
